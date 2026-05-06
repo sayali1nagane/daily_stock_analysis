@@ -15,7 +15,9 @@ plotly>=5.11.0
 kaleido>=0.2.1
 
 # Notifications
-smtplib2>=0.2.1
+# Note: smtplib is built into Python's standard library; smtplib2 is a thin wrapper
+# Removing smtplib2 since I'm using the standard smtplib directly in my fork
+# smtplib2>=0.2.1
 
 # Testing
 pytest>=7.2.0
