@@ -31,3 +31,5 @@ isort>=5.10.1
 # Personal additions
 # rich: nicer terminal output for debugging and manual runs
 rich>=12.6.0
+# tabulate: pretty-print DataFrames as tables in the terminal
+tabulate>=0.9.0
