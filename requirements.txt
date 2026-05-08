@@ -39,3 +39,5 @@ tqdm>=4.64.0
 ipython>=8.7.0
 # pyperclip: quickly copy stock symbols or analysis output to clipboard during manual sessions
 pyperclip>=1.8.0
+# arrow: friendlier date/time handling than datetime; useful when manually inspecting trading day ranges
+arrow>=1.2.3
