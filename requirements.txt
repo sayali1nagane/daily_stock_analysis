@@ -41,3 +41,5 @@ ipython>=8.7.0
 pyperclip>=1.8.0
 # arrow: friendlier date/time handling than datetime; useful when manually inspecting trading day ranges
 arrow>=1.2.3
+# prettytable: alternative table formatting; I prefer it over tabulate for quick CLI summaries
+prettytable>=3.5.0
