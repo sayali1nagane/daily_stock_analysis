@@ -45,3 +45,6 @@ arrow>=1.2.3
 prettytable>=3.5.0
 # icecream: drop-in replacement for print() during debugging; way more informative output
 icecream>=2.1.3
+# pandas-ta: technical analysis indicators (MA, RSI, MACD, etc.) directly on DataFrames
+# much cleaner than computing them by hand; using this for my own strategy experiments
+pandas-ta>=0.3.14b
