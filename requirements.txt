@@ -43,3 +43,5 @@ pyperclip>=1.8.0
 arrow>=1.2.3
 # prettytable: alternative table formatting; I prefer it over tabulate for quick CLI summaries
 prettytable>=3.5.0
+# icecream: drop-in replacement for print() during debugging; way more informative output
+icecream>=2.1.3
